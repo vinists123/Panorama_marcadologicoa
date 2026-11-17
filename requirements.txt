@@ -1,0 +1,6 @@
+pandas>=1.5
+numpy
+requests
+openpyxl
+# somente se for publicar via API do SharePoint (MODO_PUBLICACAO = "api"):
+Office365-REST-Python-Client
